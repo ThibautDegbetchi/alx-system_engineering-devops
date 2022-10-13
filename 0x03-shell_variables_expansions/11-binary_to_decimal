@@ -1,2 +1,2 @@
 #!/bin/bash
-$((2 # $BANARY))
+echo $((2 # $BANARY))
